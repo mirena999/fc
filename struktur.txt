@@ -1,0 +1,22 @@
+Auflistung der Ordnerpfade
+Volumeseriennummer : 00000029 90AB:0202
+C:.
++---cgi-bin
++---css
+¶   +---Aufnahmen 25.02.2024
+¶       +---Fuﬂballplatz Inden
+¶           +---25.02.2024
++---fonts
++---images
+¶   +---campus
+¶   +---gallery
+¶   +---img_products
+¶   +---news
+¶   +---players
+¶   +---shop
+¶   +---slider
+¶   +---trainer
+¶   +---trainer-slider
+¶   +---Vorstand
++---js
+    +---components
